@@ -1,8 +1,8 @@
-存储库名称
+牧民
 
-# 存储库名称
+# 巴格德
 
-> 斯拉格莱恩
+> 一体化反馈解决方案
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
@@ -22,8 +22,8 @@
 
 ## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - 结论
 
 看[README.md](./400/README.md)
