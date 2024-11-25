@@ -2,9 +2,9 @@
 
 # 巴格德
 
-> 一体化反馈解决方案
+> All-in-one feedback solution
 
--   [词汇表](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
 -   [文档](./DOCUMENTATION.md)
 
