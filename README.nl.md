@@ -1,14 +1,14 @@
-bugherd
+bugherder
 
 # Bugherd
 
 > Alles-in-één feedbackoplossing
 
 -   [Glossarium](./GLOSSARY.md)
--   [References](./REFERENCES.md)
--   [Documentation](./DOCUMENTATION.md)
+-   [Referenties](./REFERENCES.md)
+-   [Documentatie](./DOCUMENTATION.md)
 
-**Executive Summary**
+**Samenvatting**
 
 Tekst
 
@@ -18,7 +18,7 @@ Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
-See [README.md](./200/README.md)
+Zien[README.md](./200/README.md)
 
 ## 300 - Onze applicatie bouwen
 
