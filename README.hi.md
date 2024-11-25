@@ -6,7 +6,7 @@
 
 -   [शब्दकोष](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
--   [प्रलेखन](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 
 **कार्यकारी सारांश**
 
