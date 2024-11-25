@@ -1,8 +1,8 @@
-nom du référentiel
+bugherd
 
-# Nom du référentiel
+# Bougerd
 
-> Slugline
+> Solution de feedback tout-en-un
 
 -   [Glossaire](./GLOSSARY.md)
 -   [Références](./REFERENCES.md)
