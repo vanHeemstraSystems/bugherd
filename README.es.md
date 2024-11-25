@@ -1,8 +1,8 @@
-nombre-repositorio
+pastor
 
-# Nombre del repositorio
+# pastor
 
-> línea de bala
+> Solución de retroalimentación todo en uno
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
