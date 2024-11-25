@@ -2,7 +2,7 @@ bugherder
 
 # Bugherd
 
-> All-in-one feedback solution
+> Alles-in-één feedbackoplossing
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
