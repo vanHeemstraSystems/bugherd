@@ -1,16 +1,16 @@
-repositorynaam
+bugherd
 
-# Naam van opslagplaats
+# Bugherd
 
-> Slaklijn
+> Alles-in-één feedbackoplossing
 
--   [Glossary](./GLOSSARY.md)
+-   [Glossarium](./GLOSSARY.md)
 -   [References](./REFERENCES.md)
--   [Documentatie](./DOCUMENTATION.md)
+-   [Documentation](./DOCUMENTATION.md)
 
-**Samenvatting**
+**Executive Summary**
 
-Text
+Tekst
 
 ## 100 - Inleiding
 
@@ -18,7 +18,7 @@ Zien[README.md](./100/README.md)
 
 ## 200 - Vereisten
 
-Zien[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - Onze applicatie bouwen
 
