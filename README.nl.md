@@ -4,8 +4,8 @@ repositorynaam
 
 > Slaklijn
 
--   [Glossarium](./GLOSSARY.md)
--   [Referenties](./REFERENCES.md)
+-   [Glossary](./GLOSSARY.md)
+-   [References](./REFERENCES.md)
 -   [Documentatie](./DOCUMENTATION.md)
 
 **Samenvatting**
