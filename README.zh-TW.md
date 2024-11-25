@@ -1,4 +1,4 @@
-bugherd
+牧民
 
 # 巴格德
 
@@ -20,7 +20,7 @@ bugherd
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 建立我們的應用程式
 
 看[README.md](./300/README.md)
 
