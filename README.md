@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+bugherd
+# Bugherd
 
-> Slugline
+> All-in-one feedback solution
 
 - [Glossary](./GLOSSARY.md)
 - [References](./REFERENCES.md)
