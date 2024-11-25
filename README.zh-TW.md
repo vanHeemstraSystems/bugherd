@@ -1,8 +1,8 @@
-儲存庫名稱
+bugherd
 
-# 儲存庫名稱
+# 巴格德
 
-> 斯拉格萊恩
+> 一體化回饋解決方案
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
@@ -20,7 +20,7 @@
 
 看[README.md](./200/README.md)
 
-## 300 - 建立我們的應用程式
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
